@@ -2,6 +2,7 @@
 
 ## Example
 
+    <?php
     class Foo
     {
         public function authorize()
