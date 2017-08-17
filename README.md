@@ -1,5 +1,7 @@
 # Fix your spelling
 
+Reduces failures in production by over 300%.
+
 ## Example
 
     <?php
